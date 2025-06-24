@@ -11,7 +11,6 @@ const App = () => {
     <main>
       <NavBar />
       <Hero />
-      <div className="h-screen bg-black"></div>
     </main>
   );
 };
