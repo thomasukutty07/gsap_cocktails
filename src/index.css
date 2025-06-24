@@ -62,6 +62,7 @@ body {
 @layer components {
   main {
     @apply w-full overflow-x-hidden;
+    overflow-y: clip;
   }
 
   nav {
